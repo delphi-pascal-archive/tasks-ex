@@ -1,0 +1,2 @@
+EnterWorkerThread;
+try
